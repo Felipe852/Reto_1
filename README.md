@@ -1,12 +1,12 @@
- # 👋 Bienvenid@ a la Tarea 1
+ # 👋 Bienvenid@ a la Tarea 3
 
 **Para hacer esta tarea, necesitas una comprensión básica de HTML, CSS y JavaScript buscamos que logres evidenciar los conocimientos esenciales para realizar aplicaciones web dinámicas con Javascript.** <br><br>
 
-# 📝 Descripción General del Reto 1
+# 📝 Descripción General del Reto 3
 
-Uno de los juegos que más ha impactado a los jovenes de hoy en día necesita un aplicativo para dar a conocer a algunos de sus personajes más importantes, entre tantos candidatos usted ha sido seleccionado para la importante tarea. Así que siguiendo los diseños e información proporcionada, debes construir el aplicativo, tratando de cumplir con todos los requerimientos que el cliente pidió.
+Unos de los e-commerce más conocidos a nivel internacional, te ha escogido entre muchos postulados, para desarrollar la nueva interfaz del mismo. Siguiendo buenas prácticas debes cumplir con todos los requerimientos solicitados por el product owner, de ello depende tu estadía en futuros proyectos ¡ así que recuerda dar lo mejor de ti!
 
-![imagen1](https://i.ibb.co/zH4jFqv/logo.png)
+![imagen1](https://i.ibb.co/L5q7myB/ebay.webp)
 <br><br>
 
 
@@ -14,38 +14,23 @@ Uno de los juegos que más ha impactado a los jovenes de hoy en día necesita un
 
 ### JavaScript :round_pushpin:
 
--	Variables
--	Constantes
--	Manipulación del DOM
--	Condicionales
--	Funciones
-- localStorage
-- Eventos
-- Arreglos
-- Objetos 
 
+- Manipulación del DOM
+- Funciones flecha
+- Asincronía
+- Métodos HTTP
+- Peticiones a Api´s 
 
-###  HTML :round_pushpin:
-
--	Etiquetas de texto
--	Etiquetas de agrupación
--	Formularios
-
-###  CSS :round_pushpin:
-
--	Selectores
--	Propiedades
--	Herencia
 
 ### Consideraciones generales
 
-- El proyecto debe estar construido con HTML 5, CSS puro **(no se permite  el uso de bootstrap)** y JavaScript (ES6+)<br><br>
+- El proyecto debe estar construido con HTML 5, CSS o Bootstrap y JavaScript (ES6+)<br><br>
 
 
 # 📘 Recursos
 
-- [Recursos Tarea 1](https://drive.google.com/drive/folders/1euZdzQV_n43gylmMLGAOiRsmB0HqmOgU?usp=sharing) 
-- [Video de explicación](https://drive.google.com/file/d/1yIC0TWaiDTVnEHqDBo_2F4UcuEruumFv/view?usp=sharing)<br>
+- [Recursos Tarea 3](https://drive.google.com/drive/folders/1SJOdCKlkpHoXf-k9a-Y4IfTBKXTI9wV8?usp=sharing) <br>
+- [Video de explicación](https://drive.google.com/file/d/1zUSGolae-71gtXEtdWkvmUz9EGf2-N2n/view?usp=sharing)
 <br><br>
 
 # 🚀 Desplegando tu proyecto
@@ -61,10 +46,10 @@ Hay muchas formas de alojar su proyecto de forma gratuita, Algunas opciones son:
 
  Para realizar la entrega de esta actividad debe realizar los siguientes pasos:
 
-1. Crear un Issues llamado **Entrega-Modulo-3-Tarea-01**
+1. Crear un Issues llamado **Entrega-Modulo-3-Tarea-03**
 2. Al `Issue` debes adicionar un pantallazo con el enunciado de la tarea
 3. Luego debes agregar la descripción de los pasos que ejecutaste para dar solución a la tarea y adjuntar las imágenes de evidencia
-4.	Subir el código de tu aplicación en el campo de entrenamiento, módulo 3, carpeta de la tarea correspondiente.
+4. Subir el código de tu aplicación en el campo de entrenamiento, módulo 3, carpeta de la tarea correspondiente.
 5. Genera una URL pública de despliegue con GitHub Pages y la compartes dentro del `issue`.
 <br><br>
 
@@ -72,5 +57,4 @@ Hay muchas formas de alojar su proyecto de forma gratuita, Algunas opciones son:
 ### Lecturas complementarias:
 - [HTML](https://lenguajehtml.com/html/)
 - [CSS](https://lenguajecss.com/css/)
-- [JavaScript](https://lenguajejs.com/javascript/) 
-
+- [JavaScript](https://lenguajejs.com/javascript/)
